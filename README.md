@@ -17,22 +17,22 @@ This app allows you to **add, update, delete, search, and filter students**, wit
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](https://github.com/samranjithpaul/Student_management_system.MERN_Stack/raw/main/client/src/images/Screenshot%202025-09-27%20at%203.09.23%E2%80%AFPM.png)
+![Dashboard](https://github.com/samranjithpaul/student-management-system-MERN/raw/main/client/src/images/Screenshot%202025-09-27%20at%203.09.23%E2%80%AFPM.png)
 
 ### Search by Student Name
-![Search by Name](https://github.com/samranjithpaul/Student_management_system.MERN_Stack/raw/main/client/src/images/Screenshot%202025-09-27%20at%203.25.29%E2%80%AFPM.png)
+![Search by Name](https://github.com/samranjithpaul/student-management-system-MERN/raw/main/client/src/images/Screenshot%202025-09-27%20at%203.25.29%E2%80%AFPM.png)
 
 ### Filter by Class
 ![Filter by Class](https://github.com/samranjithpaul/student-management-system-MERN/raw/main/client/src/images/Screenshot%202025-09-27%20at%203.06.53%E2%80%AFPM.png)
 
 ### Filter by Grade
-![Filter by Grade](https://github.com/samranjithpaul/Student_management_system.MERN_Stack/raw/main/client/src/images/Screenshot%202025-09-27%20at%203.07.22%E2%80%AFPM.png)
+![Filter by Grade](https://github.com/samranjithpaul/student-management-system-MERN/raw/main/client/src/images/Screenshot%202025-09-27%20at%203.07.22%E2%80%AFPM.png)
 
 ### Full Details of Student
-![Full Student Details](https://github.com/samranjithpaul/Student_management_system.MERN_Stack/raw/main/client/src/images/Screenshot%202025-09-27%20at%203.07.45%E2%80%AFPM.png)
+![Full Student Details](https://github.com/samranjithpaul/student-management-system-MERN/raw/main/client/src/images/Screenshot%202025-09-27%20at%203.07.45%E2%80%AFPM.png)
 
 ### Add New Student Page
-![Add Student](https://github.com/samranjithpaul/Student_management_system.MERN_Stack/raw/main/client/src/images/Screenshot%202025-09-27%20at%203.08.39%E2%80%AFPM.png)
+![Add Student](https://github.com/samranjithpaul/student-management-system-MERN/raw/main/client/src/images/Screenshot%202025-09-27%20at%203.08.39%E2%80%AFPM.png)
 
 ---
 
