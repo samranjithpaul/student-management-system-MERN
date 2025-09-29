@@ -23,7 +23,7 @@ This app allows you to **add, update, delete, search, and filter students**, wit
 ![Search by Name](https://github.com/samranjithpaul/Student_management_system.MERN_Stack/raw/main/client/src/images/Screenshot%202025-09-27%20at%203.25.29%E2%80%AFPM.png)
 
 ### Filter by Class
-![Filter by Class](https://github.com/samranjithpaul/Student_management_system.MERN_Stack/raw/main/client/src/images/Screenshot%202025-09-27%20at%203.06.53%E2%80%AFPM.png)
+![Filter by Class](https://github.com/samranjithpaul/student-management-system-MERN/client/src/images/Screenshot%202025-09-27%20at%203.06.53%E2%80%AFPM.png)
 
 ### Filter by Grade
 ![Filter by Grade](https://github.com/samranjithpaul/Student_management_system.MERN_Stack/raw/main/client/src/images/Screenshot%202025-09-27%20at%203.07.22%E2%80%AFPM.png)
