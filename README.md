@@ -1,5 +1,9 @@
 #  Student Management System (MERN Stack)
 
+A **Student Management System** built with the **MERN stack** (MongoDB, Express.js, React, Node.js) for efficient CRUD operations on student records.  
+This app allows you to **add, update, delete, search, and filter students**, with support for **profile image uploads** and a **user-friendly responsive UI**.
+
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
@@ -12,6 +16,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 </div>
 ___
+
 A **Student Management System** built with the **MERN stack** (MongoDB, Express.js, React, Node.js) for efficient CRUD operations on student records.  
 This app allows you to **add, update, delete, search, and filter students**, with support for **profile image uploads** and a **user-friendly responsive UI**.
 
