@@ -15,7 +15,9 @@ app.get("/", (req, res) => {
   res.json({ message: "server is running 50000" });
 });
 
+
 const studentSchema = mongoose.Schema(
+
   {
     image: String,
     name: String,
