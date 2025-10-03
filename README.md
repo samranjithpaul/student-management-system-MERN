@@ -16,12 +16,12 @@ This app allows you to **add, update, delete, search, and filter students**, wit
 
 ---
 
-## 🚀 Features
-- ✅ Manage student records with full **CRUD operations**  
-- 🔍 **Search and filter** student data by grade/class or name  
-- 🖼️ Upload and associate **student profile images**  
-- 📱 Responsive **React frontend** with a clean UI  
-- ⚡ RESTful backend built with **Express & MongoDB**  
+##  Features
+- Manage student records with full **CRUD operations**  
+- **Search and filter** student data by grade/class or name  
+-  Upload and associate **student profile images**  
+- Responsive **React frontend** with a clean UI  
+-  RESTful backend built with **Express & MongoDB**  
 
 ---
 
@@ -49,13 +49,13 @@ This app allows you to **add, update, delete, search, and filter students**, wit
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
+### 1: Clone the Repository
 ```bash
 git clone https://github.com/samranjithpaul/Student_management_system.MERN_Stack.git
 cd Student_management_system.MERN_Stack
 ```
 
-### 2️⃣ Install Dependencies
+### 2: Install Dependencies
 ```bash
 cd server
 npm install
@@ -64,42 +64,42 @@ cd ../client
 npm install
 ```
 
-### 3️⃣ Start MongoDB
+### 3: Start MongoDB
 Make sure MongoDB is running locally (`mongod`) or connect to a remote MongoDB instance.  
 Update the **connection string** in `server/index.js` if needed.  
 
-### 4️⃣ Change Port Numbers (Optional)
+### 4: Change Port Numbers (Optional)
 - Change client port in `client/src/App.js`  
 - Change server port in `server/index.js`  
 
-### 5️⃣ Run Backend Server
+### 5: Run Backend Server
 ```bash
 cd ../server
 npm start
 ```
 
-### 6️⃣ Run Frontend Client
+### 6: Run Frontend Client
 ```bash
 cd ../client
 npm start
 ```
 
-### 7️⃣ Access the Application
+### 7: Access the Application
 Open your browser and visit:  
 👉 [http://localhost:3000](http://localhost:3000)  
 
 ---
 
-## 📬 Contact
+##  Contact
 If you have any doubts or issues, feel free to reach out:  
 📧 **samranjithpaul71@gmail.com**
 
 ---
 
-## 🎉 Feel Free to Use
+##  Feel Free to Use
 
 This **Student Management System** is open for anyone to use, learn from, and modify.  
 Whether you want to **experiment with MERN stack**, **customize features**, or **enhance the UI**, this project is ready for you!  
 
-Happy coding! 🚀
+Happy coding! 
 
