@@ -25,7 +25,7 @@ This app allows you to **add, update, delete, search, and filter students**, wit
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Dashboard
 ![Dashboard](https://github.com/samranjithpaul/student-management-system-MERN/raw/main/client/src/images/Screenshot%202025-09-27%20at%203.09.23%E2%80%AFPM.png)
